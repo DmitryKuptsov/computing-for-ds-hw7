@@ -1,4 +1,3 @@
-LICENSE
 README.md
 pyproject.toml
 predict_diabetes.egg-info/PKG-INFO
