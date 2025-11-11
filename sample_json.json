@@ -1,0 +1,17 @@
+{
+  "age": 68.0,
+  "height": 180.3,
+  "weight": 73.9,
+  "aids": 0,
+  "cirrhosis": 0,
+  "hepatic_failure": 0,
+  "immunosuppression": 0,
+  "leukemia": 0,
+  "lymphoma": 0,
+  "solid_tumor_with_metastasis": 0,
+  "ethnicity_Asian": 0,
+  "ethnicity_Caucasian": 1,
+  "ethnicity_Hispanic": 0,
+  "ethnicity_Native American": 0,
+  "ethnicity_Other/Unknown": 0
+}
